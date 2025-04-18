@@ -1,6 +1,6 @@
 ![Lucas Dezotti](https://github.com/lucascdz.png)
 
-Associate professor of Latin Language and Classics at Universidade Federal da Paraíba – UFPB, Brazil. ([link](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1989775))
+Associate professor of Latin and Classics at Universidade Federal da Paraíba – UFPB, Brazil. ([link](https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1989775))
 
 # Projects
 
