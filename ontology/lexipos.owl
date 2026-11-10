@@ -17,8 +17,8 @@
     <rdfs:comment xml:lang="en">A vocabulary of properties for expressing the position of notes within the entries of print dictionaries, for use with the OntoLex-Lemon and Lexicog models.</rdfs:comment>
     <dct:description xml:lang="en">Lexipos provides datatype properties for expressing the positions of textual notes within dictionary entries (for example, before or after the lemma, a definition, a form or a usage example). Each property is intended for use with a specific class from the OntoLex-Lemon or Lexicog models. Lexipos was designed to support the modelling of legacy print dictionaries as Linked Data and is inspired by Merrilees’ (1996) positional approach to dictionary entry components.</dct:description>
     <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-    <dct:publisher rdf:resource="https://lucascdz.github.io/"/>
-    <dct:creator rdf:resource="https://lucascdz.github.io/"/>
+    <dct:publisher rdf:resource="https://orcid.org/0000-0001-6798-7979">Lucas Consolin Dezotti</dct:publisher>
+    <dct:creator rdf:resource="https://orcid.org/0000-0001-6798-7979">Lucas Consolin Dezotti</dct:creator>
   </owl:Ontology>
 
 <!-- domain:LexicalEntry -->
